@@ -3,3 +3,8 @@ body{
     font-family: "Arial";
     color: deeppink;
 }
+
+.header h1 {
+    color: purple;
+    font: 15px;
+}
