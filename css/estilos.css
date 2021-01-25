@@ -8,3 +8,8 @@ body{
     color: purple;
     font: 15px;
 }
+
+header h3{
+    color: salmon;
+    font-size: 13px;
+}
